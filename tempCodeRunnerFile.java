@@ -1,0 +1,1 @@
+        op.push(); // Pass the Scanner object as an argument to the push meth
